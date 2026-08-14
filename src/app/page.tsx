@@ -36,7 +36,7 @@ export default function Home() {
         >
           <Scramble text="sdu.edu.kz" delay={280} replayOnHover />
         </a>
-        <Scramble text=", currently at the team-matching stage at " delay={280} />
+        <Scramble text=", incoming intern at " delay={280} />
         <a
           href="https://yandex.com"
           target="_blank"
