@@ -34,7 +34,7 @@ export default function Home() {
           rel="noopener noreferrer"
           className={linkClass}
         >
-          <Scramble text="sdu.edu.kz" delay={280} replayOnHover />
+          <Scramble text="sdu.kz" delay={280} replayOnHover />
         </a>
         <Scramble text=", incoming swe intern at " delay={280} />
         <a
