@@ -5,7 +5,7 @@ const externalLinks = [
   { label: "github", href: "https://github.com/aqylbermeshtech" },
   {
     label: "linkedin",
-    href: "https://www.linkedin.com/in/nurtore-kambar-b66732313/",
+    href: "https://www.linkedin.com/in/nurtore-kambar/",
   },
 ];
 
