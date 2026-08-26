@@ -68,7 +68,7 @@ export default function Home() {
         <Scramble text="tech stack" delay={640} />
       </h2>
       <p>
-        <Scramble text="python, c++, java, js, swift, etc." delay={720} />
+        <Scramble text="python, c++, java, js, ts, swift, etc." delay={720} />
       </p>
 
       <h2 className="mt-10 font-bold">
